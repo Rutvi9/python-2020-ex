@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bitwise-ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579774526356</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="third commit">
+      <created>1579781488237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579781488237</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,10 +229,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1579674679130" />
-    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1579774523919">
+    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1579781485696">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579774523919" />
+    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579781485696" />
     <state x="499" y="174" key="FileChooserDialogImpl" timestamp="1579759083373">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -275,10 +281,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579761924096" />
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579774534528">
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579781495790">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579774534528" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579781495790" />
     <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579761759715">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
