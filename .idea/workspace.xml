@@ -15,7 +15,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/python-2020-ex" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1WjsoZLvpKKU1e3KZU18JddCMNp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/python-2020-ex" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -176,6 +177,11 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/python-2020-ex" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579674679130">
       <screen x="0" y="0" width="1440" height="860" />
@@ -225,13 +231,17 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state width="709" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1579757381125" />
-    <state x="223" y="74" key="SettingsEditor" timestamp="1579759680206">
+    <state x="223" y="74" key="SettingsEditor" timestamp="1579761924096">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579759680206" />
-    <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579674589784">
+    <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579761924096" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579761980632">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="427" y="256" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1579674589784" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579761980632" />
+    <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579761759715">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="256" key="com.intellij.ide.util.TipDialog/0.0.1440.860@0.0.1440.860" timestamp="1579761759715" />
   </component>
 </project>
