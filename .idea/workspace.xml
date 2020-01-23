@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="" />
+    <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/relation-op-ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/relation-op-ex.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +38,7 @@
       <recent name="C:\Users\rutvi.patel\PycharmProjects\python-basic-practice\python-2020-ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.arithmetic-operator-ex">
+  <component name="RunManager" selected="Python.relation-op-ex">
     <configuration name="None-ex" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -120,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="relation-op-ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\rutvi.patel\PycharmProjects\python-basic-practice\ex1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/relation-op-ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.relation-op-ex" />
         <item itemvalue="Python.arithmetic-operator-ex" />
         <item itemvalue="Python.escape-char-ex" />
         <item itemvalue="Python.None-ex" />
         <item itemvalue="Python.bytesarray" />
-        <item itemvalue="Python.ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,18 +178,40 @@
       <option name="presentableId" value="Default" />
       <updated>1579674513906</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1579762584464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579762584464</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1579762901567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579762901567</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/python-2020-ex" />
     </ignored-roots>
+    <MESSAGE value="first" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579674679130">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1579674679130" />
+    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1579762899072">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579762899072" />
     <state x="499" y="174" key="FileChooserDialogImpl" timestamp="1579759083373">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -199,22 +224,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="567" y="327" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1579675013283" />
-    <state width="709" height="276" key="GridCell.Tab.0.bottom" timestamp="1579757381124">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1579764482409">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1579757381124" />
-    <state width="709" height="276" key="GridCell.Tab.0.center" timestamp="1579757381124">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1579764482409" />
+    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1579764482408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1579757381124" />
-    <state width="709" height="276" key="GridCell.Tab.0.left" timestamp="1579757381124">
+    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1579764482408" />
+    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1579764482408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1579757381124" />
-    <state width="709" height="276" key="GridCell.Tab.0.right" timestamp="1579757381124">
+    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1579764482408" />
+    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1579764482408">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1579757381124" />
+    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1579764482408" />
     <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1579757381125">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -235,10 +260,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579761924096" />
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579761980632">
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579764572397">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579761980632" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579764572397" />
     <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579761759715">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
