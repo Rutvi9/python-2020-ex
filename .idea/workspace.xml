@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/import_module_example1/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import_module_example1/dmath.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/import_module_example1/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/import_module_example1/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/import_module_example1/demo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -250,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579856838908</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="third commit">
+      <created>1579859050007</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1579859050007</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,10 +272,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1579674679130" />
-    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1579856835525">
+    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1579859046669">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579856835525" />
+    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1579859046669" />
     <state x="133" y="71" key="DiffContextDialog" timestamp="1579783205104">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -287,22 +292,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="567" y="327" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1579675013283" />
-    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1579859037609">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1579859930060">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1579859037609" />
-    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1579859037609">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1579859930060" />
+    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1579859930059">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1579859037609" />
-    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1579859037609">
+    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1579859930059" />
+    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1579859930059">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1579859037609" />
-    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1579859037609">
+    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1579859930059" />
+    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1579859930059">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1579859037609" />
+    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1579859930059" />
     <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1579757381125">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -323,10 +328,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579761924096" />
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579856848489">
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579859052569">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579856848489" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579859052569" />
     <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579761759715">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
