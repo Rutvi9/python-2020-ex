@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignments/smallest_no_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/no.-betwn1to100.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/odd_even_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/import_module_example" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/DigitsToEnglishWords-0-99.py" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -45,7 +46,7 @@
       <recent name="C:\Users\rutvi.patel\PycharmProjects\python-basic-practice\programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.smallest_no_ex">
+  <component name="RunManager" selected="Python.odd_even_ex">
     <configuration name="command-line-ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,27 +60,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/command-line-ex.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basic-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/import_module_example1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_module_example1/demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,6 +89,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="no.-betwn1to100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basic-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/no.-betwn1to100.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="odd_even_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python-basic-practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/odd_even_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="smallest_no_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,34 +152,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python-basic-practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/import_module_example1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/import_module_example1/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.odd_even_ex" />
+        <item itemvalue="Python.no.-betwn1to100" />
         <item itemvalue="Python.smallest_no_ex" />
         <item itemvalue="Python.command-line-ex" />
         <item itemvalue="Python.keyboard_input_exa" />
-        <item itemvalue="Python.demo" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -269,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580103676220</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="first commit 27 jan">
+      <created>1580110670668</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1580110670668</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,18 +295,18 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1579674679130" />
-    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1580103671437">
+    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1580110667808">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580103671437" />
+    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580110667808" />
     <state x="133" y="71" key="DiffContextDialog" timestamp="1579783205104">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="133" y="71" key="DiffContextDialog/0.0.1440.860@0.0.1440.860" timestamp="1579783205104" />
-    <state x="499" y="174" key="FileChooserDialogImpl" timestamp="1579858359806">
+    <state x="499" y="174" key="FileChooserDialogImpl" timestamp="1580115021093">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="499" y="174" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1579858359806" />
+    <state x="499" y="174" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1580115021093" />
     <state x="558" y="330" width="347" height="199" key="Github.CreateGistDialog" timestamp="1579674821002">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -307,22 +315,22 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="567" y="327" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1579675013283" />
-    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1580110096501">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1580114948860">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
-    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1580110096501">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580114948860" />
+    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1580114948859">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
-    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1580110096501">
+    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1580114948859" />
+    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1580114948859">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
-    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1580110096501">
+    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1580114948859" />
+    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1580114948859">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
+    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1580114948859" />
     <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1580109978210">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -343,10 +351,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579761924096" />
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580103685546">
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580110679106">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580103685546" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580110679106" />
     <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579761759715">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
