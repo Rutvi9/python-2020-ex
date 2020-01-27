@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/programs/command-line-ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programs/keyboard_input_exa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignments/smallest_no_ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +45,7 @@
       <recent name="C:\Users\rutvi.patel\PycharmProjects\python-basic-practice\programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.command-line-ex">
+  <component name="RunManager" selected="Python.smallest_no_ex">
     <configuration name="command-line-ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ternary-op-ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="smallest_no_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/ternary-op-ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignments/smallest_no_ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.smallest_no_ex" />
         <item itemvalue="Python.command-line-ex" />
         <item itemvalue="Python.keyboard_input_exa" />
         <item itemvalue="Python.demo" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.ternary-op-ex" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579868538300</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="first commit 27 jan">
+      <created>1580103676220</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1580103676220</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,7 +279,8 @@
     <MESSAGE value="first" />
     <MESSAGE value="second commit" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="first commit 27 jan" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit 27 jan" />
   </component>
   <component name="WindowStateProjectService">
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579674679130">
@@ -300,46 +307,46 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="567" y="327" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1579675013283" />
-    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1580103271022">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1580110096501">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580103271022" />
-    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1580103271022">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
+    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1580110096501">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1580103271022" />
-    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1580103271022">
+    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
+    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1580110096501">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1580103271022" />
-    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1580103271022">
+    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
+    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1580110096501">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1580103271022" />
-    <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1579757381125">
+    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1580110096501" />
+    <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1580109978210">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1579757381125" />
-    <state width="709" height="276" key="GridCell.Tab.1.center" timestamp="1579757381124">
+    <state width="709" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
+    <state width="709" height="276" key="GridCell.Tab.1.center" timestamp="1580109978210">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1579757381124" />
-    <state width="709" height="276" key="GridCell.Tab.1.left" timestamp="1579757381124">
+    <state width="709" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
+    <state width="709" height="276" key="GridCell.Tab.1.left" timestamp="1580109978210">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1579757381124" />
-    <state width="709" height="276" key="GridCell.Tab.1.right" timestamp="1579757381125">
+    <state width="709" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
+    <state width="709" height="276" key="GridCell.Tab.1.right" timestamp="1580109978210">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1579757381125" />
+    <state width="709" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
     <state x="223" y="74" key="SettingsEditor" timestamp="1579761924096">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579761924096" />
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1579868543619">
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580103685546">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1579868543619" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580103685546" />
     <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579761759715">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
