@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="">
+    <list default="true" id="62ff11da-953b-4f06-9146-a1ee830756e3" name="Default Changelist" comment="first commit 27 jan">
+      <change afterPath="$PROJECT_DIR$/programs/nested-for-ex.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +45,7 @@
       <recent name="C:\Users\rutvi.patel\PycharmProjects\python-basic-practice\programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.odd_even_ex">
+  <component name="RunManager" selected="Python.nested-for-ex">
     <configuration name="command-line-ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="keyboard_input_exa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="nested-for-ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python-basic-practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/keyboard_input_exa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/programs/nested-for-ex.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.nested-for-ex" />
         <item itemvalue="Python.odd_even_ex" />
         <item itemvalue="Python.no.-betwn1to100" />
         <item itemvalue="Python.smallest_no_ex" />
         <item itemvalue="Python.command-line-ex" />
-        <item itemvalue="Python.keyboard_input_exa" />
       </list>
     </recent_temporary>
   </component>
@@ -282,7 +283,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580115216493</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="first commit 27 jan">
+      <created>1580116200803</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580116200803</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -300,10 +308,10 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="174" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1579674679130" />
-    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1580115213563">
+    <state x="364" y="29" key="CommitChangelistDialog2" timestamp="1580125279665">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580115213563" />
+    <state x="364" y="29" key="CommitChangelistDialog2/0.0.1440.860@0.0.1440.860" timestamp="1580125279665" />
     <state x="133" y="71" key="DiffContextDialog" timestamp="1579783205104">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
@@ -320,46 +328,46 @@
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="567" y="327" key="Github.ShareDialog/0.0.1440.860@0.0.1440.860" timestamp="1579675013283" />
-    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1580114948860">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom" timestamp="1580187631695">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580114948860" />
-    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1580114948859">
+    <state width="709" height="222" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580187631695" />
+    <state width="709" height="222" key="GridCell.Tab.0.center" timestamp="1580187631695">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1580114948859" />
-    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1580114948859">
+    <state width="709" height="222" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1580187631695" />
+    <state width="709" height="222" key="GridCell.Tab.0.left" timestamp="1580187631695">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1580114948859" />
-    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1580114948859">
+    <state width="709" height="222" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1580187631695" />
+    <state width="709" height="222" key="GridCell.Tab.0.right" timestamp="1580187631695">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1580114948859" />
-    <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1580109978210">
+    <state width="709" height="222" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1580187631695" />
+    <state width="709" height="276" key="GridCell.Tab.1.bottom" timestamp="1580125386394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
-    <state width="709" height="276" key="GridCell.Tab.1.center" timestamp="1580109978210">
+    <state width="709" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1580125386394" />
+    <state width="709" height="276" key="GridCell.Tab.1.center" timestamp="1580125386394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
-    <state width="709" height="276" key="GridCell.Tab.1.left" timestamp="1580109978210">
+    <state width="709" height="276" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1580125386394" />
+    <state width="709" height="276" key="GridCell.Tab.1.left" timestamp="1580125386394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
-    <state width="709" height="276" key="GridCell.Tab.1.right" timestamp="1580109978210">
+    <state width="709" height="276" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1580125386394" />
+    <state width="709" height="276" key="GridCell.Tab.1.right" timestamp="1580125386394">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state width="709" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1580109978210" />
+    <state width="709" height="276" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1580125386394" />
     <state x="223" y="74" key="SettingsEditor" timestamp="1579761924096">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="223" y="74" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1579761924096" />
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580115224245">
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2" timestamp="1580116212295">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
-    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580115224245" />
+    <state x="312" y="166" key="Vcs.Push.Dialog.v2/0.0.1440.860@0.0.1440.860" timestamp="1580116212295" />
     <state x="427" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1579761759715">
       <screen x="0" y="0" width="1440" height="860" />
     </state>
